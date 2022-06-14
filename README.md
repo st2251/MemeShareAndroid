@@ -12,8 +12,8 @@ General functionalilties of this app are--><br/>
 
 Some screenshots of the app for relevence are--><br/>
 
-![first](https://github.com/st2251/MemeShareAndroid/blob/master/app/src/main/res/drawable/meme1.jpeg)
-![first](https://github.com/st2251/MemeShareAndroid/blob/master/app/src/main/res/drawable/meme2.jpeg)
-![first](https://github.com/st2251/MemeShareAndroid/blob/master/app/src/main/res/drawable/meme3.jpeg)
+![first](https://github.com/st2251/MemeShareAndroid/blob/master/app/src/main/res/drawable/meme1.jpeg)<br/>
+![first](https://github.com/st2251/MemeShareAndroid/blob/master/app/src/main/res/drawable/meme2.jpeg)<br/>
+![first](https://github.com/st2251/MemeShareAndroid/blob/master/app/src/main/res/drawable/meme3.jpeg)<br/>
 
 
